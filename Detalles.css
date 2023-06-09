@@ -1,0 +1,16 @@
+body {
+    background-color:blue;
+}
+h2 {
+    color:chartreuse;
+}
+label{
+    color: beige;
+}
+p{
+    color:cornsilk
+}
+body{
+    align-items: center;
+    text-align: center;
+}
